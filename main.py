@@ -82,4 +82,4 @@ async def doit(ctx, role: discord.Role):
 
 keep_alive()
 print("Started")
-bot.run("ODcyNjU3MzY3NzIzMDQwODQ4.YQtDgQ.8HQ6E6r5ZAIlttyc7Rmvxd23TFE")
+bot.run("") # Put your bot token here!
